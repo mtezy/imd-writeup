@@ -3,6 +3,8 @@
 > Due-diligence + technical breakdown of the **IdentityMD** agent swarm.
 > Chain: **Ethereum mainnet** · Token: `$IMD` · Explorer: `explorer.imd.fun` · Control plane: `api.imd.fun`
 > Snapshot: **24 Sep 2026**.
+>
+> 📄 **Running a worker node?** See **[WORKER-SETUP.md](WORKER-SETUP.md)** — full VPS install, pairing, and service guide.
 
 ---
 
